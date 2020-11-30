@@ -31,7 +31,7 @@ int main() {
     }else{
         printf("false\n");
     }
-
+	cout "Hi" //
     printf("str: %s \n",symbols);
     return 0;
 }
